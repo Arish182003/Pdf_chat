@@ -70,10 +70,10 @@ If you would like an easy-to-setup, completely private, and minimum hardware-com
 
 ## Sample Output
 
-![Chat Screenhot 1](https://github.com/Abdullahw72/langchain-chatbot-multiple-PDF/blob/master/Chat_Result.png?raw=true)
+![Chat Screenhot 1](https://github.com/Arish182003/langchain-chatbot-multiple-PDF/blob/master/Chat_Result.png?raw=true)
 
 
-![Chat Screenhot 1](https://github.com/Abdullahw72/langchain-chatbot-multiple-PDF/blob/master/Chat_Result-2.png?raw=true)
+![Chat Screenhot 1](https://github.com/Arish182003/langchain-chatbot-multiple-PDF/blob/master/Chat_Result-2.png?raw=true)
 
 
 ## Future Enhancements
