@@ -83,8 +83,6 @@ If you would like an easy-to-setup, completely private, and minimum hardware-com
 - Improved error handling and user feedback.
 - Enhanced user interface and customization options.
 
-## Blog
-Check out my detailed blog on this project here: https://medium.com/@abdullahw72/langchain-chatbot-for-multiple-pdfs-harnessing-gpt-and-free-huggingface-llm-alternatives-9a106c239975
 
 ## Contributing
 
